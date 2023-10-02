@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **eng.ahmedhosny2024@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1XwRDwYlh1dxOdWuBfxiAboXvB93Assah](https://drive.google.com/drive/folders/1XwRDwYlh1dxOdWuBfxiAboXvB93Assah)
+- 📄 Know about my experiences [My CV](https://drive.google.com/drive/folders/1XwRDwYlh1dxOdWuBfxiAboXvB93Assah)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
