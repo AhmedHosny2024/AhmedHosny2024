@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full stack developer</h3>
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="ahmedhosny2024" /> </p>
 
-- 🌱 I’m currently learning **Mamachine Learning and Artificial Intelligence**
+- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
 - 💬 Ask me about **React, Java script or any thing i will do my best to help you ❤️**
 
