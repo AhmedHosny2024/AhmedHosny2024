@@ -19,7 +19,8 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="mailto:eng.ahmedhosny2024@gmail.com" target="blank" align="center"><img align="center" height="30" width="40" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" draggable="false" /></a> <a href="https://linkedin.com/in/ahmed-hosny-a016841b5/" target="blank" align="center"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-hosny-a016841b5/" draggable="false" /></a></p>
+<a href="mailto:eng.ahmedhosny2024@gmail.com" target="blank" align="center"><img align="center" height="30" width="40" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" draggable="false" /></a> <a href="https://linkedin.com/in/ahmed-hosny-a016841b5/" target="blank" align="center"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-hosny-a016841b5/" draggable="false" /></a><a href="https://leetcode.com/user9337dW/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user9337dW" height="30" width="40" draggable="false"/></a>
+</p>
 
 <hr/>
 
