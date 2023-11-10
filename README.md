@@ -11,6 +11,9 @@
 - 📫 How to reach me **eng.ahmedhosny2024@gmail.com**
 
 - 📄 Know about my experiences [My CV](https://drive.google.com/drive/folders/1XwRDwYlh1dxOdWuBfxiAboXvB93Assah)
+  <br>
+  <br>
+  ![GitHub Views](https://komarev.com/ghpvc/?username=AhmedHosny2024)
 
 </p>
   <br>
