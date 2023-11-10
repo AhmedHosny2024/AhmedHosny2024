@@ -16,9 +16,6 @@
   ![GitHub Views](https://komarev.com/ghpvc/?username=AhmedHosny2024)
 
 </p>
-  <br>
-  <br>
-  <br>
 <hr/>
 <h3 align="center">Connect with me:</h3>
 
