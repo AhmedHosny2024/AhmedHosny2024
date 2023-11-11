@@ -16,17 +16,17 @@
 </p>
   <br>
 <hr/>
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
-<p align="center">
+<p align="left">
 <a href="mailto:eng.ahmedhosny2024@gmail.com" target="blank" align="center"><img align="center" height="30" width="40" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" draggable="false" /></a> <a href="https://linkedin.com/in/ahmed-hosny-a016841b5/" target="blank" align="center"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-hosny-a016841b5/" draggable="false" /></a><a href="https://leetcode.com/user9337dW/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user9337dW" height="30" width="40" draggable="false"/></a>
 </p>
 
 <hr/>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <br>
-<p align="center"> 
+<p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -55,8 +55,8 @@
 
 <hr/>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhosny2024&show_icons=true&locale=en&layout=compact" alt="ahmedhosny2024" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhosny2024&show_icons=true&locale=en&layout=compact" alt="ahmedhosny2024" /></p>
 <hr>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedhosny2024&show_icons=true&locale=en" alt="ahmedhosny2024" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedhosny2024&show_icons=true&locale=en" alt="ahmedhosny2024" /></p>
 <hr>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhosny2024&" alt="ahmedhosny2024" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhosny2024&" alt="ahmedhosny2024" /></p>
