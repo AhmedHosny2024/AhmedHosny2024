@@ -3,13 +3,15 @@
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="ahmedhosny2024" /> 
 <p align="left">
   
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
+- 🌱 I’m currently learning **software engineer at dru-app**
 
-- 💬 Ask me about **React, Java script or any thing i will do my best to help you ❤️**
+- 💬 Ask me about **Anything you want i can help you ❤️**
 
 - 📫 How to reach me **eng.ahmedhosny2024@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/drive/folders/1XwRDwYlh1dxOdWuBfxiAboXvB93Assah)
+- 📄 Know about my experiences
+-   [My Software CV](https://drive.google.com/file/d/1ezTL6a1kjXRYWtNFXMbJlBcrcbUAoCiM/view?usp=sharing)
+-   [My AI CV](https://drive.google.com/file/d/1KsMK6__xn4XQdd0hyOaq0fCyxE9nBJEQ/view?usp=sharing)
   <br>
   <br>
   ![GitHub Views](https://komarev.com/ghpvc/?username=AhmedHosny2024)
