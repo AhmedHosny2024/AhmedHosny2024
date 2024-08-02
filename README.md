@@ -14,7 +14,9 @@
 -   [My AI CV](https://drive.google.com/file/d/1KsMK6__xn4XQdd0hyOaq0fCyxE9nBJEQ/view?usp=sharing)
   <br>
   <br>
+  
   ![GitHub Views](https://komarev.com/ghpvc/?username=AhmedHosny2024)
+  
 </p>
   <br>
 <hr/>
